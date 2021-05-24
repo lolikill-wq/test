@@ -1,0 +1,35 @@
+.bold_text
+{
+    font-weight: 600;
+}
+body{
+    
+     background:url(dream/Arts/обои.jpeg);
+     background-size: 100% auto;
+     font-weight: 600;
+    }
+a{
+    color: #709eff;
+}
+.dreame{
+background-color: rgb(104, 161, 207);
+height:74px;
+width:100%;
+display:flex;
+justify-content: space-between;
+
+}
+p{
+    color:#a1cdff;
+}
+.button{
+    background-color:rgb(0, 31, 117);
+    padding: 12px;
+    border-radius: 3px;
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 10px;
+    font-weight: 100px;
+    width:180px;
+    height:50px;
+}
